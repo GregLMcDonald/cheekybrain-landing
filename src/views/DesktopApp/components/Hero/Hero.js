@@ -41,9 +41,9 @@ const Hero = () => {
           </Box>
           <Box marginBottom={3}>
             <Typography variant="h5" component="p">
-              Explore our fun learning quests that awaken curiosity and fuel creativity. Our unique tools and resources involve teachers, students, and parents, sparking a love for learning.
+              Explore our fun learning quests that awaken curiosity and fuel creativity.
               <br /><br />
-              Join our exciting journey and let learning change your view of the world!
+              Our unique tools and resources involve teachers, students, and parents, sparking a love for learning.
             </Typography>
           </Box>
           <Box

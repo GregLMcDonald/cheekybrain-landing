@@ -4,9 +4,6 @@ import Box from '@mui/material/Box';
 import Button from '@mui/material/Button';
 import { alpha, useTheme } from '@mui/material/styles';
 import MenuIcon from '@mui/icons-material/Menu';
-// import brain from 'assets/images/brain.svg';
-// import brainWhite from 'assets/images/brain-white.svg';
-
 
 // import { NavItem } from './components';
 
