@@ -80,7 +80,7 @@ const Footer = () => {
           color="text.secondary"
           gutterBottom
         >
-          &copy; CheekyBrain. 2023, Greg McDonald
+          &copy; CheekyBrain. 2023, Greg McDonald. All rights reserved
         </Typography>
         <Typography
           align={'center'}
